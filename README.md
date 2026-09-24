@@ -25,3 +25,4 @@ alimentarias** con restaurantes y cafés seguros del Oriente Antioqueño.
 - Correo: nati1244@hotmail.com
 - Telefono: +57 3147955540
 - LinkedIn: [Natalia Pulgarin](https://linkedin.com/in/tu-usuario)
+- x:[Natalia Pulgarin](https://x.com/tu-usuario)
